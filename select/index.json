@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ONE MORE TIME",
+  "base_artist": "ALLDAY PROJECT",
+  "createdAt": "2025-12-02T03:22:43.157606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/01_One_More_Time_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flathead One More Time",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/02_Flathead_One_More_Time_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/03_One_More_Time_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One More Time - Original Version",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/04_One_More_Time_-_Original_Version_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "There Is Always One More Time",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/05_There_Is_Always_One_More_Time_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby One More Time",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/06_Baby_One_More_Time_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "... Baby One More Time",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/07_..._Baby_One_More_Time_Travis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me One More Time",
+      "artist": "DJ Seinfeld",
+      "has_synced": false,
+      "path": "select/08_Tell_Me_One_More_Time_DJ_Seinfeld.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Love You One More Time",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/09_Let_Me_Love_You_One_More_Time_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/10_One_More_Time_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One More Time (Live - The Turn Tour 2008)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/11_One_More_Time_(Live_-_The_Turn_Tour_2008)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One More Time (Live)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_One_More_Time_(Live)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/13_One_More_Time_Kate_Ryan.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Real McCoy",
+      "has_synced": false,
+      "path": "select/14_One_More_Time_Real_McCoy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Human After All/Together/One More Time/Music Sounds Better With You",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/15_Human_After_All_Together_One_More_Time_Music_Sounds_Better_With_You_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Encore: Human After All \u0000 Together \u0000 One More Time (Reprise) \u0000 Music Sounds Better With You",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/16_Encore__Human_After_All_\u0000_Together_\u0000_One_More_Time_(Reprise)_\u0000_Music_Sounds_Bett_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One More Time",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/17_One_More_Time_Daft_Punk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE MORE TIME",
+      "artist": "ALLDAY PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_MORE_TIME_ALLDAY_PROJECT.txt"
+    }
+  ]
+}
